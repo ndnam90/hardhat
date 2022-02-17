@@ -31,7 +31,9 @@ type Chain =
   | "moonbaseAlpha"
   // xdai
   | "xdai"
-  | "sokol";
+  | "sokol"
+  | "local"
+  | "positionTestnet";
 
 export type ChainConfig = {
   [Network in Chain]: EtherscanChainConfig;

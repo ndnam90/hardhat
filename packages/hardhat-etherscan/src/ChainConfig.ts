@@ -170,4 +170,18 @@ export const chainConfig: ChainConfig = {
       browserURL: "https://blockscout.com/poa/sokol",
     },
   },
+  local: {
+    chainId: 11337,
+    urls: {
+      apiURL: "http://localhost:4000/api",
+      browserURL: "http://localhost:4000",
+    },
+  },
+  positionTestnet: {
+    chainId: 1337,
+    urls: {
+      apiURL: "https://explorer.nonprodposi.com/api",
+      browserURL: "https://explorer.nonprodposi.com/",
+    },
+  },
 };

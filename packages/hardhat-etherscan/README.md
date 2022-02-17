@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/v/@nomiclabs/hardhat-etherscan.svg)](https://www.npmjs.com/package/@nomiclabs/hardhat-etherscan) [![hardhat](https://hardhat.org/buidler-plugin-badge.svg?1)](https://hardhat.org)
+[![npm](https://img.shields.io/npm/v/@ndnam90/hardhat-etherscan.svg)](https://www.npmjs.com/package/@ndnam90/hardhat-etherscan) [![hardhat](https://hardhat.org/buidler-plugin-badge.svg?1)](https://hardhat.org)
 
 # hardhat-etherscan
 
@@ -18,19 +18,19 @@ It's smart and it tries to do as much as possible to facilitate the process:
 ## Installation
 
 ```bash
-npm install --save-dev @nomiclabs/hardhat-etherscan
+npm install --save-dev @ndnam90/hardhat-etherscan
 ```
 
 And add the following statement to your `hardhat.config.js`:
 
 ```js
-require("@nomiclabs/hardhat-etherscan");
+require("@ndnam90/hardhat-etherscan");
 ```
 
 Or, if you are using TypeScript, add this to your `hardhat.config.ts`:
 
 ```js
-import "@nomiclabs/hardhat-etherscan";
+import "@ndnam90/hardhat-etherscan";
 ```
 
 ## Tasks

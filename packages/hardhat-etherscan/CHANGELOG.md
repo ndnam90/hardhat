@@ -1,4 +1,4 @@
-# @nomiclabs/hardhat-etherscan
+# @ndnam90/hardhat-etherscan
 
 ## 3.0.1
 
